@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://portfolio-6161d.web.app/sitemap.xml

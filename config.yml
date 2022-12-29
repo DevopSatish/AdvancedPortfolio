@@ -1,4 +1,4 @@
-baseURL: "https://portfolio-6161d.web.app/"
+baseURL: "https://satish-v.web.app/"
 title: ExampleSite
 paginate: 5
 theme: PaperMod
@@ -63,7 +63,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Satish V
     subtitle: Hi👋 there!! i am student my stack is MERN, Flutter, Firebase, Django.
-    imageUrl: "https://portfolio-6161d.web.app/profile.jpeg"
+    imageUrl: "https://satish-v.web.app/profile.jpeg"
     imageWidth: 250
     imageHeight: 250
     imageTitle: my image

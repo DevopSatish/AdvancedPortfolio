@@ -62,7 +62,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Satish V
-    subtitle: Hi there!! i am student my stack is MERN, Flutter, Firebase, Django.
+    subtitle: Hi👋 there!! i am student my stack is MERN, Flutter, Firebase, Django.
     imageUrl: "https://portfolio-6161d.web.app/profile.jpeg"
     imageWidth: 250
     imageHeight: 250
